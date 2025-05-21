@@ -1,4 +1,4 @@
-# 🔬 Breast Cancer Prediction  
+# 🔬 Breast Cancer Detection  
 This project uses machine learning to classify whether a tumor is malignant or benign based on various features extracted from breast mass images. It employs classification algorithms to build a predictive model using the Breast Cancer Wisconsin dataset.
 
 ## 📌 Features  
